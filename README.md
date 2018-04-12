@@ -1,2 +1,3 @@
-# rails-test-repo
-My first repo, testing this out.
+# My RAILS Repo
+
+My first repo, just experimenting.
